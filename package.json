@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Ombro/tao_order_server#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "mongodb": "^5.7.0"
   }
 }
